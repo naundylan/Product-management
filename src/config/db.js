@@ -8,4 +8,4 @@ export default async function connectDB() {
     } catch (error) {
         console.log('DB connect error: ', error);
     }
-}
+} 
